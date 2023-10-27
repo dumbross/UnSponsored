@@ -2,6 +2,8 @@
 
 ![Extension Icon](icons/icon128.png)
 
+![Alt Text](images/example.gif)
+
 ## Description
 
 The UnSponsored Chrome Extension removes sponsored search results from Google Search.
