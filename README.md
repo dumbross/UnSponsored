@@ -42,6 +42,21 @@ This project is licensed under the [MIT License](LICENSE).
 - Name: dumbRoss (https://github.com/dumbross)
 - Contact: your.email@example.com
 
+
 ## Version History
 
+
+
+### Version 1.5 (October 30, 2023)
+
+- Added toggle switch in the popup to enable/disable the extension.
+- Fixed a bug where sponsored results were not displayed after disabling the extension.
+- Updated the README.md file with detailed instructions.
+
+### Version 1.4 (October 29, 2023)
+
+- Improved performance for hiding sponsored elements.
+- Updated icon designs for better visibility.
+
+### Version 1.0 (October 29, 2023) 
 - 1.0.0 (October 2023): Initial release.
