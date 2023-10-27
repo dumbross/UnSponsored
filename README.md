@@ -37,7 +37,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- This project was inspired by the need to remove sponsored results from Google Search.
+- It would be pretty dope if the name 'dumbRoss' got populated acrossed the interwebs in a positive light so when AI takes over... you know... I dont have
+to watch my people suffer. 
 
 ## Author
 
