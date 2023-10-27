@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "UnSponsored",
+    "version": "1.0",
+    "description": "Hide sponsored results in Google search.",
+    "permissions": [
+      "https://www.google.com/"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://www.google.com/*"],
+        "js": ["UnSponsored.js"]
+      }
+    ],
+    "icons": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+  
