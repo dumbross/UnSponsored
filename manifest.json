@@ -1,7 +1,7 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 4,
     "name": "UnSponsored",
-    "version": "1.5",
+    "version": "1.6",
     "description": "Hide sponsored content on web pages.",
     "action": {
       "default_popup": "popup.html"      
